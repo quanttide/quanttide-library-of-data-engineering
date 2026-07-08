@@ -1,1 +1,3 @@
-# Awesome Free Data Analytics Solutions
+# 量潮数据工程图书馆
+
+数据工程相关工具、平台、资源的介绍与收录。
